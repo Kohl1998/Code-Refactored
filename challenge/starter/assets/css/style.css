@@ -11,12 +11,14 @@ body {
 
 .header {
     padding: 20px;
+    /* Create a fallback system for older browsers */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
 .header h1 {
+    /* Aligns main heading with ul list in the heading */
     display: inline-block;
     font-size: 48px;
 }
@@ -34,10 +36,13 @@ body {
 }
 
 .header div ul {
+    /* Remove any unlines etc */
     list-style-type: none;
 }
 
+
 .header div ul li {
+    /* To form navigation in a row */
     display: inline-block;
     margin-left: 25px;
 }
