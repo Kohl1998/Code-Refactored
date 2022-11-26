@@ -32,6 +32,6 @@ I also used 'Slack' for support - https://slack.com/intl/en-gb
 
 Please refer to the LICENSE in the repo.
 
-##Features
+## Features
 
 For this application there is a navigation bar within the header which includes more in depth information, which you can access by clicking any of the links to jump straight to the section. Also, there is the open to scroll down the page using the scroller. 
