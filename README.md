@@ -8,7 +8,7 @@ During the process I learnt how important semantic elements are for structuring 
 
 ## Installation
 
-As this was a feature request challenge I was provided with the starter code which I allowed me access to the webside & the html/css code. 
+As this was a feature request challenge I was provided with the starter code which provided me access to the html/css files.
 
 Once I received this I setup a remote repo on Github to work from, which I then cloned to my local repository so I can have the two in sync. 
 
