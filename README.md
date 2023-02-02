@@ -18,7 +18,7 @@ Lastly, once I was done I pushed all the updates to my remote repository from my
 
 ## screenshot
 
-[![seo-for-Horiseon-agency.png](https://i.postimg.cc/d06y2hhC/seo-for-Horiseon-agency.png)](https://postimg.cc/d773vtmQ)
+[![seo-2.jpg](https://i.postimg.cc/bwbWLtfs/seo-2.jpg)](https://postimg.cc/18mv34tQ)
 
 ## Credits
 
